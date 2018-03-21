@@ -1,25 +1,4 @@
-/* =================================================================== 
- *
- *  Infinity v1.0 Vendor/Third Party CSS 
- *  01-02-2017
- *  ------------------------------------------------------------------
- *
- *  TOC:
- *  01. Animate.css
- *  02. Lightgallery 
- *  03. Owl Carousel 
- *  04. Flexslider
- *
- * =================================================================== */
 
-/**
- * 01. 
- * Animate.css - http://daneden.me/animate
- * Licensed under the MIT license - http://opensource.org/licenses/MIT
- *
- * Copyright (c) 2015 Daniel Eden
- * ===================================================================
- */
 .animated {
   -webkit-animation-duration: 1s;
   animation-duration: 1s;
